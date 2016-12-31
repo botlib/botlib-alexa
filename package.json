@@ -1,0 +1,15 @@
+{
+  "name": "@reportio/lambda",
+  "version": "0.0.0",
+  "main": "src/index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "@reportio/tslint": "*",
+    "@types/node": "^6.0.55",
+    "ts-loader": "^1.2.2",
+    "tslint": "^4.0.2",
+    "typescript": "^2.1.1",
+    "webpack": "^2.2.0-rc.3",
+    "webpack-node-externals": "^1.5.4"
+  }
+}
